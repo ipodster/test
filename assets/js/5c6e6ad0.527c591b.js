@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcrypto_toon=self.webpackChunkcrypto_toon||[]).push([[1753],{7953:function(e,t,n){n.r(t),n.d(t,{default:function(){return a}});var c=n(7294),u=n(5257);function a(){return c.createElement(u.Z,null,c.createElement("h1",null,"My React page"),c.createElement("p",null,"This is a React page"))}}}]);
