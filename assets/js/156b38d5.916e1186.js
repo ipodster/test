@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcrypto_toon=self.webpackChunkcrypto_toon||[]).push([[9604],{4295:function(t){t.exports=JSON.parse('{"permalink":"/test/blog/tags/greetings","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
